@@ -12,7 +12,7 @@
 
 
 
-## Authors
+## Author
 
 👤 **Arturo Hermida**
 
